@@ -18,7 +18,6 @@ const Test = () => {
       <Item>Item 1</Item>
       <Item>Item 1</Item>
       <Item>Item 1</Item>
-      <Item>Item 1</Item>
     </Stack>
   );
 };
