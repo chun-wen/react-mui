@@ -10,7 +10,7 @@ const TestButton = styled(Button)(({ theme }) => ({
   borderRadius: theme.spacing(2),
   border: '2px solid red',
   '&:hover': {
-    backgroundColor: theme.palette.action.hover,
+    backgroundColor: theme.status.danger,
   },
   '&:active': {
     backgroundColor: theme.palette.action.active,
