@@ -1,6 +1,7 @@
 'use client';
 import React from 'react';
-import { ThemeProvider } from 'styled-components';
+
+import { ThemeProvider } from '@mui/material/styles';
 
 import Test from './AutoComplete';
 import AddPhoto from './IconButton';
